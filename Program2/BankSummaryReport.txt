@@ -1,0 +1,5 @@
+
+                                      Welcome to Bank of Kansas City
+                                         Customer Summary Report
+
+ Bank ID       First Name     Last Name                  Savings       Checking          Total
